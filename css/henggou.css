@@ -1,0 +1,26 @@
+body{
+  font-family: "微软雅黑";
+}
+ul,li,h1,h2,h3,h4,h5,h6,p,a{
+  margin:0;
+  padding:0;
+  list-style: none;
+  font-weight: normal;
+  text-decoration: none;
+}
+p{
+  padding: 1em;
+  font-size: 1.8em;
+}
+.dingbu1{
+  width:100%;
+  height:11.6%;
+}
+.dingbu{
+  width:100%;
+  height:11.6%;
+  position: fixed;
+  left: 0;
+  top:0;
+  background: #eb4d7e;
+}
